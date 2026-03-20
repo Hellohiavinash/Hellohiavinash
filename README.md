@@ -1,7 +1,7 @@
 # 🌌 Hi 👋, I'm Avinash Kumar  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Lead+Data+Engineer+%7C+Data+Scientist;8%2B+Years+of+Experience;Machine+Learning+%7C+AI+%7C+Analytics;Turning+Data+into+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Lead+Data+Engineer+%7C+AI+Developer;🤖+RAG+%7C+LLM+%7C+Machine+Learning;⚡+Oracle+%2B+Python+Automation+Expert;🔥+Building+AI+for+Real+Business+Problems" />
 </p>
 
 ---
@@ -14,10 +14,11 @@
 
 # 🚀 About Me  
 
-💼 **Lead Data Engineer | Data Scientist**  
+💼 **Lead Data Engineer | AI Developer**  
 📊 8+ Years in Data Engineering, ML & Analytics  
 
-🔹 Expert in building **scalable data pipelines & ML models**  
+🔹 Expert in **Oracle + Python + AI Automation**  
+🔹 Building **RAG-based AI Systems for Business**  
 🔹 Passionate about solving real-world problems using data  
 
 📍 India  
@@ -29,14 +30,15 @@
 # 🧠 Tech Arsenal  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,tensorflow,sklearn" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,tensorflow,sklearn,flask" />
 </p>
 
 💡 **Core Stack:**  
 - Python 🐍 | SQL | PL/SQL  
 - Machine Learning 🤖 | Deep Learning  
-- Power BI 📊 | Oracle Forms and Reports 
-- Oracle DB 🗄️  
+- RAG | LLM | FAISS ⚡  
+- Oracle DB 🗄️ | Power BI 📊  
+- Flask 🌐 | APIs | Automation  
 - Unix ⚙️ | Jenkins | Git  
 
 ---
@@ -70,6 +72,23 @@
 ---
 
 # 🚀 Featured Projects  
+
+## 🤖 AI / RAG Projects  
+
+### 🔥 AI Sales Bot (RAG + FAISS + Oracle DB)  
+🚀 Built an intelligent **Sales Assistant Chatbot** using:  
+- 🧠 RAG Architecture  
+- ⚡ FAISS Vector Search  
+- 🗄️ Oracle Database (Real-time data)  
+- 🤖 LLM (Gemini / OpenAI)  
+
+💡 **Features:**  
+✔️ Semantic search on business data  
+✔️ Real-time query answering  
+✔️ Sales insights generation  
+✔️ Conversational AI interface  
+
+---
 
 ## 🧠 Machine Learning Projects  
 
@@ -127,10 +146,10 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/avi-avikumar">
-    <img src="https://img.shields.io/badge/LinkedIn-Avinash-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:rajavinash438@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -138,7 +157,7 @@
 
 # ⚡ Fun Zone  
 
-💬 *“Data is the new oil, but insight is the refinery.”*  
+💬 *“AI + Data = Smart Business Decisions 🚀”*  
 
 ---
 
