@@ -43,39 +43,19 @@
 
 ---
 
-# 💼 Experience  
-
-### 🏢 Lead Data Engineer — Birlasoft *(2024–Present)*  
-✨ Built ML pipelines & Power BI dashboards  
-✨ Improved model accuracy using tuning techniques  
-✨ Developed automated ETL workflows  
-
----
-
-### 🏢 TSYS *(2023–2024)*  
-🚀 Built predictive ML models  
-📉 Reduced SQL execution time by **30%**  
-⚙️ Automated data pipelines  
-
----
-
-### 🏢 TCS *(2021–2023)*  
-📊 Processed **4M+ records**  
-🔄 Automated claims & invoice systems  
-
----
-
-### 🏢 ESS *(2018–2020)*  
-🌍 ERP Implementation (Kenya & Nigeria)  
-⚡ Barcode automation & reporting systems  
-
----
-
 # 🚀 Featured Projects  
 
-## 🤖 AI / RAG Projects  
+## 🤖 AI Sales Bot (RAG + FAISS + Oracle DB)  
 
-### 🔥 AI Sales Bot (RAG + FAISS + Oracle DB)  
+<p align="center">
+  <a href="https://github.com/Hellohiavinash/sales-bot-rag">
+    <img src="https://img.shields.io/badge/🔥_View_Project-GitHub-black?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-blue?style=for-the-badge"/>
+  </a>
+</p>
+
 🚀 Built an intelligent **Sales Assistant Chatbot** using:  
 - 🧠 RAG Architecture  
 - ⚡ FAISS Vector Search  
@@ -93,16 +73,29 @@
 ## 🧠 Machine Learning Projects  
 
 🔹 **Customer Churn Prediction**  
-- Built classification model using Random Forest  
-- Improved retention insights  
-
 🔹 **Sales Forecasting Model**  
-- Time-series forecasting using ML  
-- Business KPI optimization  
-
 🔹 **Fraud Detection System**  
-- Anomaly detection using ML algorithms  
-- Reduced fraud risk  
+
+---
+
+# 💼 Experience  
+
+### 🏢 Lead Data Engineer — Birlasoft *(2024–Present)*  
+✨ Built ML pipelines & Power BI dashboards  
+✨ Improved model accuracy  
+✨ Automated ETL workflows  
+
+---
+
+### 🏢 TSYS *(2023–2024)*  
+🚀 Built predictive ML models  
+📉 Improved SQL performance by **30%**  
+
+---
+
+### 🏢 TCS *(2021–2023)*  
+📊 Processed **4M+ records**  
+🔄 Automated enterprise workflows  
 
 ---
 
@@ -125,15 +118,7 @@
 
 ---
 
-# 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://github.com/Hellohiavinash/Hellohiavinash/blob/main/dist/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-# 🏆 Achievements & Certifications  
+# 🏆 Achievements  
 
 🏅 Python & Machine Learning Specialist  
 🏅 Deep Learning – Coursera  
