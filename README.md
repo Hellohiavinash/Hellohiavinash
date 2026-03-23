@@ -1,7 +1,7 @@
-# 🌌 Hi 👋, I'm Avinash Kumar  
+# 🌌 Hi 👋, I'm Avinash Kumar
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Lead+Data+Engineer+%7C+AI+Developer;🤖+RAG+%7C+LLM+%7C+Machine+Learning;⚡+Oracle+%2B+Python+Automation+Expert;🔥+Building+AI+for+Real+Business+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=🚀+Lead+Data+Engineer+%7C+AI+Developer;🤖+LLM+%7C+Vectorless+AI+%7C+Machine+Learning;⚡+Oracle+%2B+Python+Automation+Expert;🔥+Building+AI+for+Real+Business+Problems" />
 </p>
 
 ---
@@ -12,94 +12,148 @@
 
 ---
 
-# 🚀 About Me  
+# 🚀 About Me
 
-💼 **Lead Data Engineer | AI Developer**  
-📊 8+ Years in Data Engineering, ML & Analytics  
+💼 **Lead Data Engineer | AI Developer**
+📊 8+ Years in Data Engineering, ML & Analytics
 
-🔹 Expert in **Oracle + Python + AI Automation**  
-🔹 Building **RAG-based AI Systems for Business**  
-🔹 Passionate about solving real-world problems using data  
+🔹 Expert in **Oracle + Python + AI Automation**
+🔹 Building **GenAI + Vectorless AI Systems for Business**
+🔹 Passionate about solving real-world problems using data
 
-📍 India  
-📧 rajavinash438@gmail.com  
-📱 +91 8789354934  
+📍 India
+📧 [rajavinash438@gmail.com](mailto:rajavinash438@gmail.com)
+📱 +91 8789354934
 
 ---
 
-# 🧠 Tech Arsenal  
+# 🧠 Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,git,github,linux,tensorflow,sklearn,flask" />
 </p>
 
-💡 **Core Stack:**  
-- Python 🐍 | SQL | PL/SQL  
-- Machine Learning 🤖 | Deep Learning  
-- RAG | LLM | FAISS ⚡  
-- Oracle DB 🗄️ | Power BI 📊  
-- Flask 🌐 | APIs | Automation  
-- Unix ⚙️ | Jenkins | Git  
+💡 **Core Stack:**
+
+* Python 🐍 | SQL | PL/SQL
+* Machine Learning 🤖 | Deep Learning
+* LLM | RAG | Vectorless AI ⚡
+* Oracle DB 🗄️ | Power BI 📊
+* Flask 🌐 | APIs | Automation
+* Unix ⚙️ | Jenkins | Git
 
 ---
 
-# 🚀 Featured Projects  
-
-## 🤖 AI Sales Bot (RAG + FAISS + Oracle DB)  
-
-<p align="center">
-  <a href="https://github.com/Hellohiavinash/sales-bot-rag">
-    <img src="https://img.shields.io/badge/🔥_View_Project-GitHub-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/🚀_Live_Demo-Coming_Soon-blue?style=for-the-badge"/>
-  </a>
-</p>
-
-🚀 Built an intelligent **Sales Assistant Chatbot** using:  
-- 🧠 RAG Architecture  
-- ⚡ FAISS Vector Search  
-- 🗄️ Oracle Database (Real-time data)  
-- 🤖 LLM (Gemini / OpenAI)  
-
-💡 **Features:**  
-✔️ Semantic search on business data  
-✔️ Real-time query answering  
-✔️ Sales insights generation  
-✔️ Conversational AI interface  
+# 🚀 Featured Projects
 
 ---
 
-## 🧠 Machine Learning Projects  
+## 🤖 AI Sales ERP Bot (Phi-3 + Oracle + Voice + WhatsApp)
 
-🔹 **Customer Churn Prediction**  
-🔹 **Sales Forecasting Model**  
-🔹 **Fraud Detection System**  
+🚀 Advanced AI-powered ERP assistant enabling natural language interaction with enterprise data.
 
----
+### 💡 Features:
 
-# 💼 Experience  
+✔️ Natural Language → SQL (Ollama Phi-3)
+✔️ Oracle Database integration
+✔️ WhatsApp Bot + Voice Assistant 🎤
+✔️ Multilingual support 🌍
+✔️ Sales forecasting (ML)
+✔️ Secure SQL execution layer 🔒
 
-### 🏢 Lead Data Engineer — Birlasoft *(2024–Present)*  
-✨ Built ML pipelines & Power BI dashboards  
-✨ Improved model accuracy  
-✨ Automated ETL workflows  
+### 🧠 Architecture:
 
----
-
-### 🏢 TSYS *(2023–2024)*  
-🚀 Built predictive ML models  
-📉 Improved SQL performance by **30%**  
+User → AI Engine (Phi-3) → SQL Generation → Oracle DB → Pandas → Charts/ML → Output
 
 ---
 
-### 🏢 TCS *(2021–2023)*  
-📊 Processed **4M+ records**  
-🔄 Automated enterprise workflows  
+## 🚗 Uber AI Copilot (GenAI + ML + Vectorless AI)
+
+🚀 Intelligent system inspired by real-world ride-hailing platforms like **Uber**.
+
+### 💡 Features:
+
+✔️ Natural Language → SQL
+✔️ Demand Prediction (ML) 📈
+✔️ Surge Detection ⚡
+✔️ ETA Prediction ⏱️
+✔️ Vectorless AI (No FAISS)
+✔️ Auto SQL Fix + Retry 🔁
+✔️ Streamlit Dashboard + Charts 📊
 
 ---
 
-# 📊 GitHub Analytics  
+### 🧠 Architecture:
+
+User → Streamlit UI → AI Engine (Phi-3)
+↓
+ML Models (Demand / ETA / Surge)
+↓
+SQL Generation + Validation
+↓
+Oracle Database
+↓
+Insights + Visualization
+
+---
+
+### 🔄 Workflow:
+
+**1️⃣ AI Query Flow**
+User → Question → AI Engine
+→ ML / SQL Routing → Execution → Result
+
+**2️⃣ ML Flow**
+Data → Feature Engineering → RandomForest Models → Prediction
+
+**3️⃣ SQL Flow**
+NL Query → Phi-3 → SQL → Clean + Fix → Execute
+
+---
+
+### 💬 Example Queries:
+
+* Predict demand at 8 PM
+* Show revenue by city
+* Top 5 drivers by earnings
+* ETA for 10 km in Pune
+* Which city has surge?
+
+---
+
+## 🧠 Machine Learning Projects
+
+🔹 Customer Churn Prediction
+🔹 Sales Forecasting Model
+🔹 Fraud Detection System
+
+---
+
+# 💼 Experience
+
+### 🏢 Lead Data Engineer — Birlasoft *(2024–Present)*
+
+✨ Built ML pipelines & Power BI dashboards
+✨ Improved model accuracy
+✨ Automated ETL workflows
+
+---
+
+### 🏢 TSYS *(2023–2024)*
+
+🚀 Built predictive ML models
+📉 Improved SQL performance by **30%**
+
+---
+
+### 🏢 TCS *(2021–2023)*
+
+📊 Processed **4M+ records**
+🔄 Automated enterprise workflows
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hellohiavinash&show_icons=true&theme=tokyonight" height="160"/>
@@ -112,22 +166,22 @@
 
 ---
 
-# 📈 Contribution Graph  
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hellohiavinash&theme=react-dark" width="100%"/>
 
 ---
 
-# 🏆 Achievements  
+# 🏆 Achievements
 
-🏅 Python & Machine Learning Specialist  
-🏅 Deep Learning – Coursera  
-🏅 Oracle Advanced SQL  
-🏅 Liquibase Certified  
+🏅 Python & Machine Learning Specialist
+🏅 Deep Learning – Coursera
+🏅 Oracle Advanced SQL
+🏅 Liquibase Certified
 
 ---
 
-# 🌐 Connect With Me  
+# 🌐 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/avi-avikumar">
@@ -140,9 +194,9 @@
 
 ---
 
-# ⚡ Fun Zone  
+# ⚡ Fun Zone
 
-💬 *“AI + Data = Smart Business Decisions 🚀”*  
+💬 *“AI + Data = Smart Business Decisions 🚀”*
 
 ---
 
